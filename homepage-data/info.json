@@ -2,5 +2,6 @@
   "lawyer_cnt": 140,
   "office_cnt" : 30,
   "consult_cnt" : 105923,
-  "success_cnt" : 9381
+  "success_cnt" : 9381,
+  "center_cnt" : 19
 }
