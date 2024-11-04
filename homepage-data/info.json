@@ -1,8 +1,8 @@
 {
   "lawyer_cnt": 230,
   "office_cnt" : 41,
-  "consult_cnt" : 129092,
-  "success_cnt" : 27002,
+  "consult_cnt" : 133550,
+  "success_cnt" : 28776,
   "center_cnt" : 22,
   "regenerTotal_cnt" : 7526723016,
   "professional_cnt" : 240,
@@ -21,6 +21,6 @@
   "comp_cnt" : 878,
   "consult_date" : "지난 3년간 기준",
   "mandate_cnt" : 26941,
-  "consult_cnt_day" : 195,
-  "mandate_cnt_day" : 67
+  "consult_cnt_day" : 189,
+  "mandate_cnt_day" : 78
 }
