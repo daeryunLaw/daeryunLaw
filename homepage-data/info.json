@@ -24,5 +24,10 @@
   "mandate_cnt" : 33286,
   "consult_cnt_day" : 165,
   "mandate_cnt_day" : 60,
-  "month_business_day" : "2025년 01월 영업일 기준"
+  "month_business_day" : "2025년 01월 영업일 기준",
+  
+  "consult_date_eng": "Based on the past 4 years",
+  "main_date_eng": "Based on 2024.01~08",
+  "month_business_day_eng": "Based on 2025.01 business days",
+  "consult_time_eng": "24/7 consultation & emergency response"
 }
