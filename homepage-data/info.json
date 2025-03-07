@@ -1,7 +1,7 @@
 {
   "lawyer_cnt": 250,
   "office_cnt" : 43,
-  "consult_cnt" : 145571,
+  "consult_cnt" : 149451,
   "success_cnt" : 27002,
   "center_cnt" : 22,
   "regenerTotal_cnt" : 7526723016,
@@ -21,23 +21,23 @@
   "main_date": "2024년 1~8월 기준",
   "comp_cnt" : 878,
   "consult_date" : "지난 4년간 기준",
-  "mandate_cnt" : 33286,
-  "consult_cnt_day" : 165,
-  "mandate_cnt_day" : 60,
-  "month_business_day" : "2025년 01월 영업일 기준",
+  "mandate_cnt" : 34803,
+  "consult_cnt_day" : 194,
+  "mandate_cnt_day" : 75,
+  "month_business_day" : "2025년 02월 영업일 기준",
   
   "consult_date_eng": "Based on the past 4 years",
   "main_date_eng": "Based on 2024.01~08",
-  "month_business_day_eng": "Based on 2025.01 business days",
+  "month_business_day_eng": "Based on 2025.02 business days",
   "consult_time_eng": "24/7 consultation & emergency response",
   
   "consult_date_jp": "過去4年間基準",
   "main_date_jp": "2024年1月～8月基準",
-  "month_business_day_jp": "2025年01月営業日基準",
+  "month_business_day_jp": "2025年02月営業日基準",
   "consult_time_jp": "365日24時間相談および緊急対応可能",
   
   "consult_date_cn": "过去4年基准",
   "main_date_cn": "2024年1月～8月基准",
-  "month_business_day_cn": "2025年01月营业日基准",
+  "month_business_day_cn": "2025年02月营业日基准",
   "consult_time_cn": "365天24小时咨询及紧急対応可能"
 }
