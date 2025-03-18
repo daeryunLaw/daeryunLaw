@@ -25,6 +25,7 @@
   "consult_cnt_day" : 194,
   "mandate_cnt_day" : 75,
   "month_business_day" : "2025년 02월 영업일 기준",
+  "current_month" : 3
   
   "consult_date_eng": "Based on the past 4 years",
   "main_date_eng": "Based on 2024.01~08",
