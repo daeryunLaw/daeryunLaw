@@ -27,6 +27,8 @@
   "month_business_day" : "2025년 05월 영업일 기준",
   "current_month" : 3,
   "pro_count":300,
+  "korea_lawfirm_ranking": 9,
+  "based_on_2024_sales": "2024년 매출액 기준",
   
   "consult_date_eng": "Based on the past 4 years",
   "main_date_eng": "Based on 2024.01~08",
