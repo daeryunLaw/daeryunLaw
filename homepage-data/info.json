@@ -2,6 +2,7 @@
   "lawyer_cnt": 250,
   "office_cnt" : 39,
   "world_office_cnt" : 40,
+  "total_world_office_cnt" : 41,
   "consult_cnt" : 149451,
   "success_cnt" : 27002,
   "center_cnt" : 22,
