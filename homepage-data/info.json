@@ -21,7 +21,7 @@
   "comp_administration_success": 1465,
   "aggregationDate": "2024.1.2~2024.8.31",
   "main_date": "2024년 1~8월 기준",
-  "comp_cnt" : 1490,
+  "comp_cnt" : 180,
   "consult_date" : "지난 7년간 종결건수 기준",
   "mandate_cnt" : 39740,
   "consult_cnt_day" : 194,
@@ -34,7 +34,7 @@
   "based_on_sales_source": "(출처: 법률신문·한국경제)",
 
   "experience" : "2025년 6월 종결건수 기준",
-  "experience_cnt" : 47900,
+  "experience_cnt" : 40000,
   "experience_cnt_day" : 78,
 
   "experience_comp" : "2025년 6월 기준",
