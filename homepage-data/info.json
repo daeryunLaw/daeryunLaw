@@ -55,7 +55,7 @@
   "month_business_day_cn": "2025年02月营业日基准",
   "consult_time_cn": "365天24小时咨询及紧急対応可能",
 
-  "forensic_success" : 550,
+  "forensic_success" : 600,
   "forensic_consult" : 3000,
   "forensic_total_count" : 1500
 }
