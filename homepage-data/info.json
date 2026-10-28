@@ -41,7 +41,10 @@
   "forensic_success": 1100,
   "forensic_consult": 4400,
   "forensic_total_count": 2100,
-
+  "detective_total_count": 11300,
+  "compensation_total_count": 8200, 
+  "inherit_total_count": 6400, 
+  
   "lawyer_cnt_eng": 250,
   "office_cnt_eng": 34,
   "world_office_cnt_eng": 30,
